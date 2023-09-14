@@ -1,0 +1,12 @@
+{
+  "name": "rods-social-api",
+  "version": "1.0.0",
+  "description": "I will be making a Social API Network for this little mini project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
